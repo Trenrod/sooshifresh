@@ -1,0 +1,82 @@
+[
+	{
+		"title" : "Freschies",
+		"priceTable" : [
+			[ "1 Freshie",  "€ 2,50", "€ 2,70" ],
+			[ "2 Freshies", "€ 4,80", "€ 5,20" ],
+			[ "3 Freshies", "€ 6,90", "€ 7,50" ],
+			[ "4 Freshies", "€ 8,80", "€ 9,60" ]
+		],
+		"items" : [
+			{
+				"title" : "Vegan",
+				"image" : "/img/vegan.jpg",
+				"variations" : [
+					{ "title" : "New York", "ingrediants" : "Avocado + Mango" },
+					{ "title" : "Mailand", "ingrediants" : "Getrocknete Tomate + Rucola" }
+				]
+			},
+			{
+				"title" : "Vegetarisch",
+				"image" : "/img/vegetarisch.jpg",
+				"variations" : [
+					{ "title" : "Stockholm", "ingrediants" : "Dill + Gurke +  laktosefreier Frischkäse" },
+					{ "title" : "Copenhagen", "ingrediants" : "Rucola + Parmesan + Balsamico" },
+					{ "title" : "Palma", "ingrediants" : "Banane + Dattel + Honig" }
+				]
+			},
+			{
+				"title" : "Fisch & Fleisch",
+				"image" : "/img/fisch_fleisch.jpg",
+				"variations" : [
+					{ "title" : "Los Angeles", "ingrediants" : "Delikatessen Räucherlachs + Avocado" },
+					{ "title" : "San Francisco", "ingrediants" : "Delikatessen Räucherlachs + Gurke" },
+					{ "title" : "Hamburg", "ingrediants" : "Geräucherte Forelle + Dill + Meerrettich" },
+					{ "title" : "California", "ingrediants" : "Surime + Mayo + Avocado" }
+				]
+			}
+		]
+	},
+	{
+		"title" : "Suppen",
+		"priceTable" : [
+			[ "klein",  "€ 2,50", "€ 2,70" ],
+			[ "groß", "€ 4,80", "€ 5,20" ]
+		],
+		"items" : [
+			{
+				"title" : "Vegane Suppen",
+				"image" : "/img/suppe.jpg",
+				"variations" : [
+					{ "title" : "New York", "ingrediants" : "Avocado + Mango" },
+					{ "title" : "Mailand", "ingrediants" : "Getrocknete Tomate + Rucola" }
+				]
+			}
+		]
+	},
+	{
+		"title" : "Salate",
+		"priceTable" : [
+			[ "Normaler Salat",  "€ 2,50", "€ 2,70" ],
+			[ "Beilangen Salat", "€ 4,80", "€ 5,20" ]
+		],
+		"items" : [
+			{
+				"title" : "Normale Salate",
+				"image" : "/img/salat.jpg",
+				"variations" : [
+					{ "title" : "New York", "ingrediants" : "Avocado + Mango" },
+					{ "title" : "Mailand", "ingrediants" : "Getrocknete Tomate + Rucola" }
+				]
+			},
+			{
+				"title" : "Beilagen Salate",
+				"image" : "/img/salat.jpg",
+				"variations" : [
+					{ "title" : "New York", "ingrediants" : "Avocado + Mango" },
+					{ "title" : "Mailand", "ingrediants" : "Getrocknete Tomate + Rucola" }
+				]
+			}
+		]
+	}
+]

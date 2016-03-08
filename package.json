@@ -1,0 +1,22 @@
+{
+  "name": "sooshifresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trenrod/sooshifresh.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trenrod/sooshifresh/issues"
+  },
+  "homepage": "https://github.com/Trenrod/sooshifresh#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
